@@ -1,0 +1,11 @@
+This is an Socket Programming Application.
+
+We will see this simple client-server application run for both of UDP and TCP.
+
+The client side will read a sentence in lowercase from keyboard input.
+
+The server side will convert the sentence to uppercase.
+
+Then server side will send it back to the client end and display it.
+
+Run both of client and server file in both of TCP and UDP folders.
